@@ -2,7 +2,7 @@
 
 ## 👨‍💻About me:
 
-Я Фронтенд-разработчик из России 🇷🇺
+Я Фронтенд-разработчик из России
 
 - В настоящее время я изучаю программирование.
 - Я пишу чистый и понятный код.
@@ -35,7 +35,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ForYP&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ForYP&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ForYP&theme=github_dark&utcOffset=8)
-![](https://www.codewars.com/users/ForYP/badges/large)
+![](https://www.codewars.com/users/Sergey-YP/badges/large)
 
 </div>
 <div id="contacts" align="center">
