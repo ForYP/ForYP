@@ -30,11 +30,11 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForYP&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ForYP&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ForYP&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ForYP&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ForYP&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForYP&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ForYP&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ForYP&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ForYP&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ForYP&theme=react&utcOffset=8)
 ![](https://www.codewars.com/users/Sergey-YP/badges/large)
 
 </div>
